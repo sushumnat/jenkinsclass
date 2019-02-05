@@ -1,6 +1,6 @@
 # building-a-multibranch-pipeline-project
 
-This is to test to check Jira integration with Jenkins
+s to test to check Jira integration with Jenkins
 
 This repository is for the
 [Build a multibranch Pipeline project](https://jenkins.io/doc/tutorials/build-a-multibranch-pipeline-project/)
